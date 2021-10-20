@@ -1,0 +1,46 @@
+#contgen{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #262626;
+    margin-bottom: auto;
+}
+
+#copyright{
+    margin-top: 60px;
+    text-align: center;
+    color: #262626;
+}
+
+img{
+    margin-top: 30px;
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+button{
+    background: #F13737;
+    color: white;
+    border: none;
+    text-align: center;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: 500;
+    width: 100%;
+    max-width: 400px;
+    height: 35px;
+}
+
+.button{
+    padding: 0 10% 0 10%;
+}
+
+a{
+    margin-top: 50px;
+    color: #707070;
+    text-decoration: underline;
+    font-size:medium;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}

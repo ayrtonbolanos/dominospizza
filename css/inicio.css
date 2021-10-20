@@ -1,0 +1,35 @@
+header{
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+}
+
+.navbar{
+    padding: 20px 0;
+}
+
+.navbar-brand{
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 2em;
+    color: #262626;
+}
+
+.navbar-item{
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    background: #262626;
+    color: #fff;
+}
+
+.banner{
+    position: relative;
+    background: url(#);
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding: 250px 0 200px;
+}
